@@ -1,6 +1,6 @@
 module dev/meinhold/export_duckdb
 
-go 1.22.2
+go 1.22
 
 require (
 	github.com/apache/arrow/go/v14 v14.0.2 // indirect
